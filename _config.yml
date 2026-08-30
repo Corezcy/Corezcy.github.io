@@ -79,4 +79,4 @@ deploy:
   type: git
   repo: https://github.com/Corezcy/Corezcy.github.io.git
   branch: master
-  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+  message: "Site updated: {{ now('yyyy-LL-dd HH:mm:ss') }}"
