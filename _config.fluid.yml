@@ -1,0 +1,7 @@
+navbar:
+  blog_title: "乘霖"
+
+index:
+  slogan:
+    enable: true
+    text: "博客"
